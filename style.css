@@ -1,0 +1,50 @@
+
+    /* Style pour la bannière */
+
+    header {
+
+      background-color: #333;
+
+      color: #fff;
+
+      padding: 20px;
+
+      text-align: center;
+
+    }
+
+
+
+    /* Style pour le contenu */
+
+    .content {
+
+      padding: 20px;
+      text-align: center;
+
+    }
+
+    .product{
+
+      text-align: center;
+      display: flex;
+    }
+
+    h6{
+      font-size: 30px;
+    }
+
+    .list{
+      text-align: center;
+    }
+
+    .header2{
+      padding: 5px;
+
+    }
+
+    .endpage{
+      width: 50vw;
+      display: flex;
+
+    }
